@@ -1,8 +1,6 @@
 INFO:root:this is information
 ERROR:root:this is error
 CRITICAL:root:this is critical
-INFO:root:this is information
-ERROR:root:this is error
 ERROR:root:this is error in the program
 INFO:root:this is an information
 CRITICAL:root:this is an critical
@@ -12,38 +10,27 @@ CRITICAL:root:this is critical
 ERROR:root:this is error in the program
 INFO:root:this is an information
 CRITICAL:root:this is an critical
-ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
-WARNING:Comm:No such comm: cc00bf83-8999-4b89-81d5-46679e188745
-INFO:root:this is information
-ERROR:root:this is error
-CRITICAL:root:this is critical
-ERROR:root:this is error in the program
-INFO:root:this is an information
-CRITICAL:root:this is an critical
-ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
-WARNING:Comm:No such comm: 7ca9fc58-20eb-4048-9820-abb4d44cc994
-ERROR:root:this is error in the program
-INFO:root:this is an information
-CRITICAL:root:this is an critical
-ERROR:root:this is error in the program
-INFO:root:this is an information
-CRITICAL:root:this is an critical
-ERROR:root:this is error in the program
-INFO:root:this is information
-ERROR:root:this is error
-CRITICAL:root:this is critical
-ERROR:root:this is error in the program
-INFO:root:this is an information
-CRITICAL:root:this is an critical
-INFO:root:this is information
-ERROR:root:this is error
-CRITICAL:root:this is critical
-ERROR:root:this is error in the program
-INFO:root:this is an information
-CRITICAL:root:this is an critical
-INFO:root:this is information
-ERROR:root:this is error
-CRITICAL:root:this is critical
-ERROR:root:this is error in the program
-INFO:root:this is an information
-CRITICAL:root:this is an critical
+INFO:root:this is a first for loop for shivank
+INFO:root:this is a first for loop for pandey
+INFO:root:this is a first for loop for [1, 2, 3, 4, 5, 6]
+INFO:root:this is a first for loop for 1
+INFO:root:this is a first for loop for 2
+INFO:root:this is a first for loop for 3
+INFO:root:this is a first for loop for 3
+INFO:root:this is a first for loop for 4
+INFO:root:this is a first for loop for shivank
+INFO:root:this is a first print []
+INFO:root:this is a first for loop for pandey
+INFO:root:this is a first print []
+INFO:root:this is a first for loop for [1, 2, 3, 4, 5, 6]
+INFO:root:this is a first print []
+INFO:root:this is a first for loop for 1
+INFO:root:this is a first print [1]
+INFO:root:this is a first for loop for 2
+INFO:root:this is a first print [1, 2]
+INFO:root:this is a first for loop for 3
+INFO:root:this is a first print [1, 2, 3]
+INFO:root:this is a first for loop for 3
+INFO:root:this is a first print [1, 2, 3, 3]
+INFO:root:this is a first for loop for 4
+INFO:root:this is a first print [1, 2, 3, 3, 4]
